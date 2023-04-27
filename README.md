@@ -130,8 +130,8 @@ If you get a flood of errors keep in mind that linters guide you in writing a cl
 
 👤 **Eloghene Otiede**
 
-- GitHub: [@githubhandle](https://github.com/geekelo)
-- Twitter: [@twitterhandle](https://twitter.com/Geekelo_xyz)
+- GitHub: [@geekelo](https://github.com/geekelo)
+- Twitter: [@Geekelo_xyz](https://twitter.com/Geekelo_xyz)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/eloghene-otiede)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
