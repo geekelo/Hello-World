@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="banner.png" alt="logo" width="140"  height="auto" />
+  <img src="./banner.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>GEEKELO</b></h3>
@@ -45,7 +45,6 @@ After you're finished please remove all the comments and instructions!
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
 - [⭐️ Show your support](#support)
@@ -111,16 +110,17 @@ HTML/CSS LINTER FILES (should not edit) - Do not make changes
 ### Usage
 
 To install linters, execute the following commands:
+```
 Initialize npm ``` npminit -y ```
 HTML ``` npm install --save-dev hint@7.x ```
 CSS ```npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x  ```
-
+```
 To run the linters, execute the following command and fix linter errors:
-
+```
 HTML ``` npx hint . ```
 CSS ```npx stylelint "**/*.{css,scss}" ```
 If you get a flood of errors keep in mind that linters guide you in writing a clean code!
-
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -152,9 +152,6 @@ If you get a flood of errors keep in mind that linters guide you in writing a cl
 
 > I would like to thank Microverse for inspiring this project
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
