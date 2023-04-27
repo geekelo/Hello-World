@@ -103,6 +103,7 @@ An HTML FILE (free to edit) - file to add html codes to give structure to your w
 A CSS FILE (free to edit) - file to style css codes to style your webpage
 A GIT IGNORE FILE (free to edit) - to hide personal or private files
 HTML/CSS LINTER FILES (should not edit) - Do not make changes
+AN EMPTY JAVASCRIPT FILE (free to edit)
 
 
 ### Usage
