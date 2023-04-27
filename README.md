@@ -86,8 +86,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 > Clone the repository
@@ -111,14 +109,14 @@ HTML/CSS LINTER FILES (should not edit) - Do not make changes
 
 To install linters, execute the following commands:
 ```
-Initialize npm ``` npminit -y ```
-HTML ``` npm install --save-dev hint@7.x ```
-CSS ```npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x  ```
+Initialize npm | ``` npminit -y ```
+HTML | ``` npm install --save-dev hint@7.x ```
+CSS | ```npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x  ```
 ```
 To run the linters, execute the following command and fix linter errors:
 ```
-HTML ``` npx hint . ```
-CSS ```npx stylelint "**/*.{css,scss}" ```
+HTML | ``` npx hint . ```
+CSS | ```npx stylelint "**/*.{css,scss}" ```
 If you get a flood of errors keep in mind that linters guide you in writing a clean code!
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
