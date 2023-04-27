@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="./banner.png" alt="logo" width=""  height="auto" />
   <br/>
 
-  <h3><b>GEEKELO</b></h3>
+  <h1><b>GEEKELO'S HELLO WORLD PROJECT</b></h1>
 
 </div>
 
