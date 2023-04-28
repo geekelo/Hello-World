@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="./banner.png" alt="logo" width=""  height="auto" />
+  <img src="https://camo.githubusercontent.com/2e874c0a2bc7ba66258160d2c5ab9908bc527583bab2201006b263b1ac6e57ae/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f732f3131306178667363783865397133712f53637265656e73686f74253230323032332d30342d32372532303032343335312e706e67" alt="logo" width=""  height="auto" />
   <br/>
 
   <h1><b>GEEKELO'S HELLO WORLD PROJECT</b></h1>
